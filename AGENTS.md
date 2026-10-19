@@ -1,4 +1,3 @@
-
 ---
 name: MedAI-ai-guidelines
 description: MedAI 구성원들의 부적절한 AI 활용을 제한하고 연구자로서 개인 능력 함양
